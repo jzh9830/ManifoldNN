@@ -20,7 +20,7 @@ Please kindly cite our paper if you use this code in your own work:
 
 ## Author of Code
 
-Ziheng Jiao and Rui Zhang
+Ziheng Jiao and Hongyuan Zhang
 
 ## Dependence
 
